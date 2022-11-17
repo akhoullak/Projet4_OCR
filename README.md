@@ -18,8 +18,13 @@ Votre client est Kanap, une marque de canapés qui vend ses produits depuis sa b
 Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
 
 Compétences évaluées;
+
 Créer un plan de test pour une application.
+
 Valider des données issues de sources externes.
+
 Interagir avec un web service avec JavaScript.
+
 Gérer des événements JavaScript.
+
 Mettre en place tout le frontend d'un projet ayant une API.
